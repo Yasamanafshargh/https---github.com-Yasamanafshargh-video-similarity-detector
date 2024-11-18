@@ -49,7 +49,7 @@ pip install rapidfuzz
 ## Installation
 1.Clone the Repository
 '''bash
-git clone https://github.com/yourusername/video-similarity-detector.git](https://github.com/Yasamanafshargh/https---github.com-Yasamanafshargh-video-similarity-detector
+git clone https://github.com/Yasamanafshargh/https---github.com-Yasamanafshargh-video-similarity-detector.git
 cd video-similarity-'''
 
 
